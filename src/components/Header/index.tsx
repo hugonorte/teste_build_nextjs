@@ -5,9 +5,12 @@ import { Language } from '@/types/language';
 import styles from './styles.module.scss';
 import { ChangeEvent, useEffect, useState } from 'react';
 import { Dictionary } from '@/types/dictionary'; 
+import { usePathname } from 'next/navigation'
 
 function Header(props : Language) {
     const [dict, setDict] = useState<Dictionary | null>(null);
+    const pathname = usePathname().split('/');
+    const chgLang = pathname.length > 2 ? '/teste_build_nextjs/' : '';
 
     useEffect(() => {
         const fetchDictionary = async () => {
@@ -19,7 +22,7 @@ function Header(props : Language) {
 
     const handleLanguageChange = (event : ChangeEvent<HTMLSelectElement>) => {
         const language = event.target.value;
-        window.location.href = `/${language}`;
+        window.location.href = `${chgLang}/${language}`;
     };
 
     if (!dict) {
