@@ -1,4 +1,9 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = { output: 'standalone',distDir: 'dist',};
+
+const isProductionEnv = process.env.NODE_ENV = 'production';
+const nextConfig = { 
+    basePath: isProductionEnv ? '/teste_build_nextjs' : '',
+    distDir: 'dist',
+};
 
 export default nextConfig;

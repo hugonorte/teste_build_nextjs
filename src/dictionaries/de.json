@@ -1,5 +1,75 @@
 {
     "index": {
-      "title": "Toevoegen aan Winkelwagen"
+      "title": "Hallo Welt!",
+      "change_language": "🇩🇪 Sprache ändern",
+      "professional_title" : "Full Stack Entwickler",
+      "lead" : "Ich bringe über 10 Jahre Erfahrung im Webdesign und einige Backend-Kompetenzen mit, um innovative Frontend-Lösungen zu entwickeln. Mein starker Hintergrund in Design, Marketing und Werbung verbessert meine Fähigkeit, außergewöhnliche Benutzererlebnisse zu schaffen und effektive Lösungen für Vertrieb und Marketing zu entwickeln.",
+      "work_experience_title" : "BERUFSERFAHRUNG",
+      "company" : "Firma",
+      "years" : "Jahre",
+      "location" : "Ort",
+      "brazil" : "Brasilien",
+      "from" : "Von",
+      "institution" : "Institution",
+      "type" : "Typ",
+      "work_experience_cards" : {
+        "card_01" : {
+          "title" : "Jr Full Stack Entwickler",
+          "bullet01": "Lösen von Level-2-Problemen im Legacy-Code (PHP, JS, CSS, HTML)",
+          "bullet02": "Hinzufügen neuer Funktionen zum Legacy-Code",
+          "bullet03": "Code-Refaktorisierung"
+        },
+        "card_02" : {
+          "title" : "Frontend Entwickler",
+          "bullet01": "Entwicklung von Skins/Templates für die Website des Kunden",
+          "bullet02": "Frontend-Entwicklung von Webseiten basierend auf UX/Design Boards",
+          "bullet03": "Code-Refaktorisierung"
+        }
+      },
+      "education_title" : "AUSBILDUNG",
+      "education_cards" : {
+        "card_01" : {
+          "title" : "Informatik",
+          "title_parenthesis" : "laufend",
+          "degree" : "Bachelor-Abschluss"
+        },
+        "card_02" : {
+          "title" : "Marketing",
+          "degree" : "Bachelor-Abschluss"
+        }
+      },
+      "professional_skills_title" : "BERUFLICHE FÄHIGKEITEN",
+      "programming_languages" : "Programmiersprachen",
+      "databases" : "Datenbanken",
+      "frontend" : "Frontend",
+      "idioms" : {
+        "title" : "Sprachen",
+        "country":{
+          "en" : "Englisch",
+          "pt" : "Portugiesisch",
+          "es" : "Spanisch",
+          "de" : "Deutsch",
+          "ch" : "Chinesisch"
+        },
+        "proficiency" : {
+          "basic" : "Grundkenntnisse",
+          "intermediate" : "Mittel",
+          "advanced" : "Fortgeschritten",
+          "native" : "Muttersprache"
+        }
+      },
+      "award_and_honors_title":"AUSZEICHNUNGEN UND EHREN",
+      "award_and_honors_cards":{
+        "card_01":{
+          "type":"Unternehmertum",
+          "bullet01":"Top 3 Projekt",
+          "bullet02":"Leitete mein Team zur Entwicklung einer App, die Kleinunternehmern bei täglichen Routinethemen hilft"
+        },
+        "card_02":{
+          "type":"Technik / Unternehmertum",
+          "bullet01":"Top 4 Projekt",
+          "bullet02":"Leitete mein Team zur Entwicklung eines Blogs mit Fokus auf körperliche und geistige Gesundheit"
+        }
+      }
     }
   }

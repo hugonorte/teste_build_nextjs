@@ -1,5 +1,75 @@
 {
-    "index": {
-      "title": "Hello, World!!"
+  "index": {
+    "title": "Hello world!",
+    "change_language": "🇬🇧 Change language",
+    "professional_title": "Full Stack Developer",
+    "lead": "I bring over 10 years of web design experience and some backend expertise to develop innovative front-end solutions. My strong background in design, marketing, and advertising enhances my ability to create exceptional user experiences and develop effective solutions for sales and marketing.",
+    "work_experience_title": "WORK EXPERIENCE",
+    "company": "Company",
+    "years": "Years",
+    "location": "Location",
+    "brazil": "Brazil",
+    "from": "From",
+    "institution": "Institution",
+    "type": "Type",
+    "work_experience_cards": {
+      "card_01": {
+        "title": "Jr Full Stack Developer",
+        "bullet01": "Solving level 2 problems at legacy code (PHP, JS, CSS, HTML)",
+        "bullet02": "Adding new features to legacy code",
+        "bullet03": "Refactoring code"
+      },
+      "card_02": {
+        "title": "Front-end Developer",
+        "bullet01": "Developing skins/templates for the client's website",
+        "bullet02": "Front-end development of web pages based on UX/design boards",
+        "bullet03": "Refactoring code"
+      }
+    },
+    "education_title": "EDUCATION",
+    "education_cards": {
+      "card_01": {
+        "title": "Computer Science",
+        "title_parenthesis": "ongoing",
+        "degree": "Bachelor's degree"
+      },
+      "card_02": {
+        "title": "Marketing",
+        "degree": "Bachelor's degree"
+      }
+    },
+    "professional_skills_title": "PROFESSIONAL SKILLS",
+    "programming_languages": "Programming languages",
+    "databases": "Databases",
+    "frontend": "Front-end",
+    "idioms": {
+      "title": "Idioms",
+      "country": {
+        "en": "English",
+        "pt": "Portuguese",
+        "es": "Spanish",
+        "de": "German",
+        "ch": "Chinese"
+      },
+      "proficiency": {
+        "basic": "Basic",
+        "intermediate": "Intermediate",
+        "advanced": "Advanced",
+        "native": "Native"
+      }
+    },
+    "award_and_honors_title": "AWARDS AND HONORS",
+    "award_and_honors_cards": {
+      "card_01": {
+        "type": "Entrepreneurship",
+        "bullet01": "Top 3 project",
+        "bullet02": "Led my team to develop an app to help small business owners deal with daily routine tasks"
+      },
+      "card_02": {
+        "type": "Tech / Entrepreneurship",
+        "bullet01": "Top 4 project",
+        "bullet02": "Led my team to develop a blog focused on physical and mental health"
+      }
     }
   }
+}

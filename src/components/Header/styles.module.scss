@@ -1,0 +1,22 @@
+.header{
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: space-between;
+
+    select {
+        margin-top: 55px;
+        border-radius: 10px;
+        padding: 10px;
+        background-color: #F8F8F8;
+        border-color: #dfdfdf;
+    }
+
+    h1 {
+        font-size: 3em;
+        margin-bottom: 0em;
+    }
+
+    h3 {
+        margin-top: 0;
+    }
+}

@@ -1,0 +1,57 @@
+.col_1 {
+    background-image: url(../../../public/img/triang_verde.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 10%;
+}
+
+.col_2 {
+    h2 {
+        color: #629177;
+        margin-bottom: 25px;
+    }
+
+    h3 {
+        color: rgb(88, 88, 88);
+    }
+
+    ul,
+    footer {
+        margin-bottom: 50px;
+    }
+
+    footer {
+        text-align: center;
+    }
+
+    ul li::marker {
+        color: #00a886;
+        font-size: 1.5em;
+    }
+
+    .work_experience_time {
+        color: darkcyan;
+    }
+
+    .work_experience_company,
+    .work_experience_location,
+    .education_degree,
+    .education_location,
+    .education_instituition {
+        margin-left: 20px;
+    }
+
+    .education_card {
+        margin-bottom: 50px;
+    }
+
+    margin: 10px 20px;
+    width: 80%;
+}
+
+.col_3 {
+    background-image: url(../../../public/img/triang_verdeesc.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 10%;
+}

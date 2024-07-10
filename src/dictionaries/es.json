@@ -1,0 +1,75 @@
+{
+    "index": {
+        "title": "¡Hola mundo!",
+        "change_language": "🇪🇸 Cambiar idioma",
+        "professional_title": "Desarrollador Full Stack",
+        "lead": "Tengo más de 10 años de experiencia en diseño web y algo de experiencia en backend para desarrollar soluciones innovadoras de front-end. Mi sólida formación en diseño, marketing y publicidad mejora mi capacidad para crear experiencias excepcionales para los usuarios y desarrollar soluciones efectivas para ventas y marketing.",
+        "work_experience_title": "EXPERIENCIA LABORAL",
+        "company": "Empresa",
+        "years": "Años",
+        "location": "Ubicación",
+        "brazil": "Brasil",
+        "from": "Desde",
+        "institution": "Institución",
+        "type": "Tipo",
+        "work_experience_cards": {
+            "card_01": {
+                "title": "Desarrollador Full Stack Jr",
+                "bullet01": "Resolución de problemas de nivel 2 en código legado (PHP, JS, CSS, HTML)",
+                "bullet02": "Agregando nuevas funcionalidades al código legado",
+                "bullet03": "Refactorización de código"
+            },
+            "card_02": {
+                "title": "Desarrollador Front-end",
+                "bullet01": "Desarrollando skins/plantillas para el sitio web del cliente",
+                "bullet02": "Desarrollo front-end de páginas web basado en tableros de UX/diseño",
+                "bullet03": "Refactorización de código"
+            }
+        },
+        "education_title": "EDUCACIÓN",
+        "education_cards": {
+            "card_01": {
+                "title": "Ciencias de la Computación",
+                "title_parenthesis": "en curso",
+                "degree": "Licenciatura"
+            },
+            "card_02": {
+                "title": "Marketing",
+                "degree": "Licenciatura"
+            }
+        },
+        "professional_skills_title": "HABILIDADES PROFESIONALES",
+        "programming_languages": "Lenguajes de programación",
+        "databases": "Bases de datos",
+        "frontend": "Front-end",
+        "idioms": {
+            "title": "Idiomas",
+            "country": {
+                "en": "Inglés",
+                "pt": "Portugués",
+                "es": "Español",
+                "de": "Alemán",
+                "ch": "Chino"
+            },
+            "proficiency": {
+                "basic": "Básico",
+                "intermediate": "Intermedio",
+                "advanced": "Avanzado",
+                "native": "Nativo"
+            }
+        },
+        "award_and_honors_title": "PREMIOS Y HONORES",
+        "award_and_honors_cards": {
+            "card_01": {
+                "type": "Emprendimiento",
+                "bullet01": "Top 3 proyecto",
+                "bullet02": "Lideré a mi equipo para desarrollar una aplicación que ayude a los pequeños empresarios a lidiar con las tareas diarias"
+            },
+            "card_02": {
+                "type": "Tecnología / Emprendimiento",
+                "bullet01": "Top 4 proyecto",
+                "bullet02": "Lideré a mi equipo para desarrollar un blog enfocado en la salud física y mental"
+            }
+        }
+    }
+}
